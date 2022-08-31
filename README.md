@@ -1,6 +1,6 @@
 ### Hello, I am Virendra Patil!👋
 
-I am working as Trainee Engineer at Principal Global Services.😇
+I am working as Product Engineer at Seclore.😇
 
 I am an enthusiastic and social person who loves to take up new challenge🎡 and learn new skills🌟. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.
 
