@@ -1,4 +1,8 @@
-### Hello, I am Virendra Patil!👋
+# 
+<h1 align="center">Hello, I am Virendra!👋</h1>
+<h3 align="center">A passionate Full Stack Developer from Pune, India &#127470;&#127475</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virendrapatil24&label=Profile%20views&color=0e75b6&style=flat" alt="virendrapatil24" /> </p>
 
 I am working as a Software Engineer at Numerator.😇
 
