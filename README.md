@@ -8,11 +8,10 @@ I am working as a Software Engineer at Numerator.😇
 
 I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.
 
-◻️Interest: REST API Development, Backend Development, Full Stack Development, Data Structures & Algorithm
+I would love to be considered for a role where I can utilize my creativity and problem-solving skills to further spur innovation. 
 
-◻️Skills:
-🔗 Proficient: Python, Django, FastAPI, SQL, REST, GIT
-🔗 Novice: React, Angular, Java, AWS, HTML/CSS, etc
+Skills:
+Python/Django/FastAPI, JavaScript, React, SQL, GIT, AWS, HTML/CSS, OOP, DSA, REST API.
 
 Apart from this, I love to hit the gym daily, go cycling and learn about investing.
 
