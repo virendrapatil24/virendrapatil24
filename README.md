@@ -11,7 +11,7 @@ I am an enthusiastic and social person who loves to take up new challenges and l
 I would love to be considered for a role where I can utilize my creativity and problem-solving skills to further spur innovation. 
 
 Skills:
-Python/Django/FastAPI, JavaScript, React, SQL, GIT, AWS, HTML/CSS, OOP, DSA, REST API.
+Python/Django/FastAPI, JavaScript/TypeScript, Node/Express, React, SQL, GIT, AWS, HTML/CSS, OOP, DSA, REST API.
 
 Apart from this, I love to hit the gym daily, go cycling and learn about investing.
 
