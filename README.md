@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendrapatil24&label=Profile%20views&color=0e75b6&style=flat" alt="virendrapatil24" /> </p>
 
+Before the intro, let's connect https://www.virendrapatil.xyz/
+
 I am working as a Software Engineer at Numerator.😇
 
 I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.
